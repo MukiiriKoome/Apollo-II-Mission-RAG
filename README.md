@@ -1,16 +1,16 @@
 ```markdown
-# 🚀 Apollo-II-Mission-RAG
+# Apollo-II-Mission-RAG
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 
-## 📖 Overview
+## Overview
 
 **Apollo-II-Mission-RAG** is an intelligent conversational agent and search system built using **Retrieval-Augmented Generation (RAG)**. This project is designed to ingest, process, and query vast amounts of data related to the [Apollo II / Apollo] space mission(s). By combining the reasoning capabilities of Large Language Models (LLMs) with a dedicated vector database of mission transcripts, technical manuals, and historical archives, this system provides highly accurate, context-aware answers to user queries.
 
 ---
 
-## ✨ Features
+## Features
 
 *   **Context-Aware Q&A:** Ask complex questions about the mission, crew, spacecraft specifications, or timelines and get precise answers grounded in historical documents.
 *   **Semantic Search:** Move beyond keyword searches; find information based on the actual meaning and context of your queries.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+## Architecture & Tech Stack
 
 This project leverages a modern AI stack to achieve fast and reliable retrieval:
 
@@ -30,7 +30,7 @@ This project leverages a modern AI stack to achieve fast and reliable retrieval:
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 **1. Clone the repository:**
 ```bash
@@ -75,7 +75,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### 1. Ingesting Data
 
@@ -99,7 +99,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Apollo-II-Mission-RAG/
@@ -124,7 +124,7 @@ Apollo-II-Mission-RAG/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to improve the retrieval pipeline, add new datasets, or fix a bug, please follow these steps:
 
@@ -136,13 +136,13 @@ Contributions are welcome! If you'd like to improve the retrieval pipeline, add 
 
 ---
 
-## 📜 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Mukiiri Koome** - [GitHub Profile](https://www.google.com/search?q=https://github.com/MukiiriKoome)
 
